@@ -1,0 +1,1 @@
+To make it works u must change txts paths in "pattern" and "choiceScanner" functions.
